@@ -13,7 +13,7 @@ def _read(f):
 
 
 setup(
-    name="configurable-objects",
+    name="configurable_objects",
     description="Library for making it easy to manage parameters of objects via dictionaries or JSON.",
     long_description=(
         _read('DESCRIPTION.rst') + b'\n' +
